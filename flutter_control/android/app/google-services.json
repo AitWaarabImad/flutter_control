@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061397500927",
+    "project_id": "fluttercontrol",
+    "storage_bucket": "fluttercontrol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061397500927:android:0d253941976aafb6ca4dca",
+        "android_client_info": {
+          "package_name": "com.example.flutter_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_zSfBKOwI0tCaHqWcLCLB5S5uYhWDNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
